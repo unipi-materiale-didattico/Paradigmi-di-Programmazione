@@ -43,7 +43,7 @@ E' la piu' piccola equivalenza compatibile con la sintassi del calcolo.
 * $λxy.x(xy) =α λab.a(ab);$
 
 #### Lemma:
-$(t =_α t') \& (s =_α s') => t[s/x] =_α t'[s'/x];$
+$(t =_α t') \land (s =_α s') \implies t[s/x] =_α t'[s'/x];$
 
 #### N.B
 $F: Λ^n => Λ t1 =α s1... tn =α sn => F(t1...tn) =α F(s1...sn)$.
