@@ -56,7 +56,7 @@ $f: D => D$ Prende qualcosa in input e restituisce qualcosa in output
 
 Calcolabile = Ricorsivo
 
-2. Church ($λ-calcolo$);
+2. Church $(\lambda-calcolo)$;
 3. Turing: 
    * Algoritmo = elenco di regole che una persona puo' eseguire in modo meccanico e preciso.
 #### Analisi di Turing:
